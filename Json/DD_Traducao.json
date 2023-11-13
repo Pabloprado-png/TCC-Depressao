@@ -1,0 +1,25 @@
+{
+  "Nomes Reduzidos": 
+    {
+      "N00101": "Estado de saúde",
+      "N012": "Pouco Interesse em atividades",
+      "P027": "Frequência de consumo de bebida",
+      "P02801": "Qtde dias na semana que bebe",
+      "P029": "Qtde doses quando bebe",
+      "P03301": "Qtde faltas no trabalho por bebida nos últimos 12M",
+      "P03303": "Aviso bebida últimos 12M",
+      "P03001": "Dirigir embriagado nos últimos 12M",
+      "P03302": "Falta de memória após beber nos últimos 12M",
+      "P03201": "Mais de 5 doses em uma ocasião nos últimos 30D",
+      "Q10701": "Compareceu a consulta de saúde mental",
+      "Q109": "Grau da limitação de atividade habitual",
+      "Q11006": "Diagnóstico de outras doenças mentais",
+      "J00402": "Motivo impedimento atividade habitual últimas 2S",
+      "N011": "Problemas com cansaço",
+      "N010": "Problemas para dormir",
+      "N016": "Sentimento depressivo",
+      "N017": "Sentimento de fracasso",
+      "N018": "Ideação suicida",
+      "Q092": "Diagnóstico de depressão"
+    }
+}
